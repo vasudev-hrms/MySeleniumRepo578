@@ -50,7 +50,7 @@ var content= '\n\
 	\n\
 	var options = {\n\
 		type: \"POST\",\n\
-		url: baseURL + \"Sample123\",\n\
+		url: baseURL + \"Sample2\",\n\
 		success: function() {},\n\
 		failure: function() {},\n\
 		dataType: \"json\",\n\
